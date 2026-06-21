@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+欢迎来到 My Book — 这是一本用 Quarto Book 构建的在线书籍。
+
+> 本站由 GitHub Actions 自动渲染 + GitHub Pages 免费托管。
