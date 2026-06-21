@@ -20,5 +20,3 @@ format:
     toc: true
     search: true
     code-fold: true
-  pdf:
-    documentclass: scrreprt
